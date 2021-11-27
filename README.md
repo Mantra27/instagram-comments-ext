@@ -1,2 +1,2 @@
-# instagram-comments-translatoR
-its for instagram web, mobile device already have this.
+# instagram-comments-translator
+chrome extension to translate instagram comments.
