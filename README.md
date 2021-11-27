@@ -1,2 +1,2 @@
-# instagram-comments-translator
-chrome extension to translate instagram comments.
+#Google Chrome Extension To Translate Instagram Comments.
+Felt cute, might be buggy(api issue)
